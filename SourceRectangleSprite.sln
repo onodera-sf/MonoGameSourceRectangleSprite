@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SourceRectangleSprite", "SourceRectangleSprite\SourceRectangleSprite.csproj", "{4ABA7CB2-4EBF-4B83-AB9B-D8A6F1544F88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4ABA7CB2-4EBF-4B83-AB9B-D8A6F1544F88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ABA7CB2-4EBF-4B83-AB9B-D8A6F1544F88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ABA7CB2-4EBF-4B83-AB9B-D8A6F1544F88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ABA7CB2-4EBF-4B83-AB9B-D8A6F1544F88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B2A1335-11DA-4396-89C4-579FB74772E4}
+	EndGlobalSection
+EndGlobal
